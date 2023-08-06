@@ -1,0 +1,9 @@
+2023-08-06 02:33:59.290775 - Initialized conversion of CBT262
+2023-08-06 02:33:59.333676 - Received CBT.V505.FILE262.PDS from FILE262.XMI 
+2023-08-06 02:33:59.335816 - Found $$$$DOC.txt (text/plain) in CBT.V505.FILE262.PDS, moved to PDS/$$$$DOC
+2023-08-06 02:33:59.336951 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE262.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:33:59.337875 - Found @FILE262.txt (text/plain) in CBT.V505.FILE262.PDS, moved to PDS/@FILE262
+2023-08-06 02:33:59.338817 - Found PTFXREF.jcl (text/plain) in CBT.V505.FILE262.PDS, moved to PDS/PTFXREF
+2023-08-06 02:33:59.339801 - Found PTFXREFJ.jcl (text/plain) in CBT.V505.FILE262.PDS, moved to PDS/PTFXREFJ
+2023-08-06 02:33:59.340626 - Found PTFXREFK.jcl (text/plain) in CBT.V505.FILE262.PDS, moved to PDS/PTFXREFK
+2023-08-06 02:33:59.341619 - Found TRUNCOUT.txt (text/plain) in CBT.V505.FILE262.PDS, moved to PDS/TRUNCOUT
